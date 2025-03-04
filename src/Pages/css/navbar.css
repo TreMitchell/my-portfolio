@@ -1,0 +1,10 @@
+/* Use for navbar.js file */
+.menu-item {
+  color: black;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.menu-item:hover {
+  background-color: white;
+  color: black;
+}
